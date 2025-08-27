@@ -32,3 +32,8 @@ Dataset ini memuat beragam informasi kecelakaan lalu lintas, termasuk fitur pent
 - Kelas 1 (Sedang): Hanya 15 dari 284 kasus diprediksi dengan benar.
 - Kelas 2 (Fatal): Model berhasil memprediksi 1.613 dari 2.018 kasus dengan benar.
 
+## 📈 **Visualisasi Hasil**
+Hasil analisis ditampilkan melalui Confusion Matrix dan grafik tingkat kepentingan fitur. Visualisasi ini memberikan gambaran fitur mana yang paling berperan dalam memprediksi tingkat keparahan kecelakaan.
+
+## 📂 **Kesimpulan**
+Analisis menunjukkan bahwa kesalahan manusia—terutama yang berkaitan dengan usia dan tingkat pendidikan pengemudi yang menjadi faktor utama penyebab kecelakaan lalu lintas. Temuan ini diharapkan dapat mendukung pihak berwenang dan masyarakat dalam merumuskan strategi guna meningkatkan keselamatan berkendara.
